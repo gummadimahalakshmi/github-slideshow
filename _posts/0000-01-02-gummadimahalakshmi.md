@@ -1,7 +1,6 @@
 ---
-This is maha's updated file 
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+This is maha's updated file 
 Use the left arrow to go back!
